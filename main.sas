@@ -5,7 +5,7 @@ proc delete data = _all_ ; run ;
 * Manual Inputs
 *************************************************************************** ; 
 * Assign scratch and project folder names;
-%let scratch_folder = /scratch/cbs/tij; 
+%let scratch_folder = /scratch/uchicago/jzheng0; 
 %let project_folder = ~/Global Data;
 
 ***************************************************************************
